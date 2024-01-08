@@ -5,7 +5,7 @@ This is the backend for BlogZilla blogging Website.
 Contains api for Blogzilla.
 
 This is the frontend for BlogZilla Website.
-Backend available at: [BlogZilla Backend](https://github.com/Mr-Atanu-Roy/BlogZilla-Frontend)
+Backend available at: [BlogZilla Backend](https://github.com/Aritra-Mondal-ICS/Blogzilla-Backend.git)
 
 
 ## Tech Stack

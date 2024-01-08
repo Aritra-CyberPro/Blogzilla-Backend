@@ -93,4 +93,4 @@ To allow request from any end point add the origin to `CORS_ORIGIN_WHITELIST` in
 
 ## Author
 
-- [@Atanu Roy](https://github.com/Mr-Atanu-Roy)
+- [@Aritra-Mondal-ICS](https://github.com/Aritra-Mondal-ICS)

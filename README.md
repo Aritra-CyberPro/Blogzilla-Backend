@@ -41,10 +41,10 @@ To run this project, you will need to add the following environment variables to
 Create a folder and open terminal and install this project by
 command 
 ```bash
-git clone https://github.com/Mr-Atanu-Roy/BlogZilla-Backend
+git clone https://github.com/Aritra-Mondal-ICS/Blogzilla-Backend.git
 
 ```
-or simply download this project from https://github.com/Mr-Atanu-Roy/BlogZilla-Backend
+or simply download this project from https://github.com/Aritra-Mondal-ICS/Blogzilla-Backend.git
 
 In project directory Create a virtual environment of any name(say env)
 

@@ -5,7 +5,7 @@ This is the backend for BlogZilla blogging Website.
 Contains api for Blogzilla.
 
 This is the frontend for BlogZilla Website.
-Backend available at: [BlogZilla Backend](https://github.com/Aritra-Mondal-ICS/Blogzilla-Backend.git)
+Backend available at: [BlogZilla Backend](https://github.com/Aritra-ISS/Blogzilla-Backend.git)
 
 
 ## Tech Stack
@@ -41,10 +41,10 @@ To run this project, you will need to add the following environment variables to
 Create a folder and open terminal and install this project by
 command 
 ```bash
-git clone https://github.com/Aritra-Mondal-ICS/Blogzilla-Backend.git
+git clone https://github.com/Aritra-ISS/Blogzilla-Backend.git
 
 ```
-or simply download this project from https://github.com/Aritra-Mondal-ICS/Blogzilla-Backend.git
+or simply download this project from https://github.com/Aritra-ISS/Blogzilla-Backend.git
 
 In project directory Create a virtual environment of any name(say env)
 

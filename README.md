@@ -5,7 +5,7 @@ This is the backend for BlogZilla blogging Website.
 Contains api for Blogzilla.
 
 This is the frontend for BlogZilla Website.
-Backend available at: [BlogZilla Backend](https://github.com/Aritra-ISS/Blogzilla-Backend.git)
+Backend available at: [BlogZilla Backend](https://github.com/Aritra-CyberPro/Blogzilla-Backend.git)
 
 
 ## Tech Stack
@@ -41,7 +41,7 @@ To run this project, you will need to add the following environment variables to
 Create a folder and open terminal and install this project by
 command 
 ```bash
-git clone https://github.com/Aritra-ISS/Blogzilla-Backend.git
+git clone https://github.com/Aritra-CyberPro/Blogzilla-Backend.git
 
 ```
 or simply download this project from https://github.com/Aritra-ISS/Blogzilla-Backend.git
@@ -93,4 +93,4 @@ To allow request from any end point add the origin to `CORS_ORIGIN_WHITELIST` in
 
 ## Author
 
-- [@Aritra-ISS](https://github.com/Aritra-ISS)
+- [@Aritra](https://github.com/Aritra-CyberPro)
